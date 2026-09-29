@@ -1,0 +1,14 @@
+{
+  "name": "mavlow",
+  "version": "1.0.0",
+  "description": "Send social drafts from Gemini into Mavlow for review, scheduling, and publishing.",
+  "mcpServers": {
+    "mavlow": {
+      "httpUrl": "https://mcp.mavlow.com/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
